@@ -1,5 +1,5 @@
 # 🎞 About Me:
-Acadêmico em Sistemas de Informação na UFPB<br>19 Anos<br>Skills: Java, Python, CSS3, Spring Boot<br>
+Acadêmico em Sistemas de Informação na UFPB<br>19 Anos<br>Skills: Java, Spring Boot, Python, CSS3<br>
 
 
 ## 🌐 Socials:
