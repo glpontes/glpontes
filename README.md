@@ -34,7 +34,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-2C2255?style=for-the-badge&logo=windows&labelColor=4eb6ff)&nbsp;
 
 ### Where you can find me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://https://www.linkedin.com/in/pedro-vinicius-8472351b7/](https://www.linkedin.com/in/gabrie-leandro-pontes/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrie-leandro-pontes/)
 [![Instagram](https://img.shields.io/badge/Instagram-d9137e?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gl.pontes)
 
 ---
