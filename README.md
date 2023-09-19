@@ -1,17 +1,46 @@
-# 🎞 About Me:
-Acadêmico em Sistemas de Informação na UFPB<br>19 Anos<br>Skills: Java, Spring Boot, Python, CSS3<br>
+# Hi:
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=glpontes&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" align="right"/>
+</div>
+  
+▸ I'm Gabriel Leandro
+
+▸ Graduating in Information Systems at [UFPB](https://www.ufpb.br/)
+
+▸ 19 years old
+
+▸ From Brazil 
+ 
+ 
+
+>🏎️ **Curious Fact: I'm a Formula 1 fanatic.**
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gl.pontes) 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=glpontes&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=glpontes&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+### Main skills:
+![Java](https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=java&labelColor=e30b0b&logoColor=fff)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=2b2b2b" alt="Spring Codeclean">
+
+### Tools:
+![Git](https://img.shields.io/badge/-Git-2C2255?style=for-the-badge&logo=git&labelColor=fff)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-2C2255?style=for-the-badge&logo=github&labelColor=161b22)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-2C2255?style=for-the-badge&logo=windows&labelColor=4eb6ff)&nbsp;
+
+### Where you can find me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://https://www.linkedin.com/in/pedro-vinicius-8472351b7/](https://www.linkedin.com/in/gabrie-leandro-pontes/))
+[![Instagram](https://img.shields.io/badge/Instagram-d9137e?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gl.pontes)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=glpontes&icon=2&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{glpontes}/count.svg" /></p> 
+<br></div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
