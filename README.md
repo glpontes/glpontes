@@ -7,7 +7,7 @@
 
 ▸ Graduating in Information Systems at [UFPB](https://www.ufpb.br/)
 
-▸ 19 years old
+▸ 20 years old
 
 ▸ From Brazil 
  
