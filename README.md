@@ -7,9 +7,10 @@
 
 ▸ Graduating in Information Systems at [UFPB](https://www.ufpb.br/)
 
-▸ 20 years old
+▸ 21 years old
 
 ▸ From Brazil 
+▸ Junior Engineer Systems at Minsait
  
  
 
